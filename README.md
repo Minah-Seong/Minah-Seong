@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Minah-Seong, Korean new-beginner in programming.
+- 👋 Hi, I’m @Minah-Seong, Korean programming new-beginner!
 -   I graduated from Konkuk University Department of Applied Statistics.
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and R with Statistics
